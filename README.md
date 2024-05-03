@@ -15,8 +15,8 @@ This repository was created by Amr Khaled, Youssef Amgad, and Mohamed Ahmed to a
 
 
 ## Program Features
-- The program starts with a welcome message, then asks the user to enter the account he wants to do
-- If the account is written incorrectly, the program will ask the user to enter the account again
+- The program starts with a welcome message, then asks the user to enter the Calculation he wants to do
+- If the Calculation is written incorrectly, the program will ask the user to enter the Calculation again
 - Incorrect entries, such as: the fraction was divided by zero, the fraction had more than one sign, and the fraction was written incorrectly
 ## Contributing
 
