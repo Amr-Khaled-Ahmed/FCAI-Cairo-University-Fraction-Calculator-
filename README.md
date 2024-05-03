@@ -8,10 +8,10 @@ This repository was created by Amr Khaled, Youssef Amgad, and Mohamed Ahmed to a
 ## operations
 
 
-- Subtracion
+- Subtraction
 - Addition
-- Multiplis
-- Devide
+- Multiplication
+- Division
 
 
 ## Program Features
