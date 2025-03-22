@@ -1,4 +1,4 @@
-# FCAI-Cairo-University-Fraction-Calculator-
+# Fraction-Calculator
 <div align='center'>
 
 
