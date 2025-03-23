@@ -1,12 +1,10 @@
-# Fraction-Calculator
-<div align='center'>
-
-
-This repository was created by Amr Khaled, Youssef Amgad, and Mohamed Ahmed to apply some basic mathmatical operations on two fractions.
+# 🔢 Fraction-Calculator
+## 📖 Overview
+<div>
+A Calculator that can add, subtract, multiply and divide normal integers and fractions positive or negative using C++.
 </div>
 
-## operations
-
+## 📐 Operations
 
 - Subtraction
 - Addition
@@ -14,13 +12,13 @@ This repository was created by Amr Khaled, Youssef Amgad, and Mohamed Ahmed to a
 - Division
 
 
-## Program Features
+## ✨ Program Features
 - The program starts with a welcome message, then asks the user to enter the Calculation he wants to do
 - If the Calculation is written incorrectly, the program will ask the user to enter the Calculation again
 - Incorrect entries, such as: the fraction was divided by zero, the fraction had more than one sign, and the fraction was written incorrectly
-## Contributing
+- Fraction and Integers Operations
 
-The engineers who collaborated together to create the program:
+## ✍️ Authors
 
 - [Youssef Amgad Elkhatib](https://github.com/YoussefElkhatib)
 - [Mohamed Ahmed](https://github.com/mohamedahmed2005)
