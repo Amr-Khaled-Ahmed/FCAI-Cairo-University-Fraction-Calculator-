@@ -4,8 +4,6 @@
 A Calculator that can add, subtract, multiply and divide normal integers and fractions positive or negative using C++.
 </div>
 
-</br>
-
 ## 📐 Operations
 
 - Subtraction
@@ -13,15 +11,12 @@ A Calculator that can add, subtract, multiply and divide normal integers and fra
 - Multiplication
 - Division
 
-</br>
 
 ## ✨ Program Features
 - The program starts with a welcome message, then asks the user to enter the Calculation he wants to do
 - If the Calculation is written incorrectly, the program will ask the user to enter the Calculation again
 - Incorrect entries, such as: the fraction was divided by zero, the fraction had more than one sign, and the fraction was written incorrectly
 - Fraction and Integers Operations
-
-</br>
 
 ## ✍️ Authors
 
